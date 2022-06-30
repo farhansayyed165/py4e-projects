@@ -1,0 +1,2 @@
+Farhan = input("Date:")
+print ("You Are In:", Farhan)
